@@ -2,6 +2,8 @@
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
 
+<img src="https://github.com/MSWagner/Flower-Classifier-Pytorch/blob/master/assets/prediction.png" width="400">
+
 ## Jupyter Notebook Files
 
 - [Jupyter Notebook](https://github.com/MSWagner/Flower-Classifier-Pytorch/blob/master/Image%20Classifier%20Project.ipynb)
