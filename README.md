@@ -15,6 +15,9 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 ```
 python train.py <data_dir> --save_dir <checkpoint folder> -g
+
+Example:
+python train.py flowers --save_dir checkpoints -g
 ``` 
 
 | Argument      | Short         | Default | Description  |
@@ -33,6 +36,9 @@ python train.py <data_dir> --save_dir <checkpoint folder> -g
 
 ```
 python predict.py <image_path> <checkpoint_path> -g
+
+Example:
+python predict.py flowers/test/1/image_06764.jpg checkpoints/checkpoint_best_accuracy.pth -g
 ``` 
 
 | Argument      | Short         | Default | Description  |
